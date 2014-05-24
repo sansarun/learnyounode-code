@@ -8,4 +8,4 @@ I think *learnyounode* is awesome if you need a quickstart in Node.js.
 If you're interested in *learnyounode* or other Node.js interactive tutorial checkout [http://nodeschool.io/](http://nodeschool.io/)
 
 
-**I haven't finish the tutorial yet. There're still 3 lessons to go.**
+**I haven't finish the tutorial yet. There're still 2 lessons to go.**
